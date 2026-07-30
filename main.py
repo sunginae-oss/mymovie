@@ -6,7 +6,7 @@ import streamlit as st
 
 # 페이지 기본 설정
 st.set_page_config(
-    page_title="시네마 인사이트 대시보드", layout="wide", page_icon="🎬"
+    page_title="장르별 영화 추천 TOP 10 & MBTI 추천 영화", layout="wide", page_icon="🎬"
 )
 
 st.title("🎬 시네마 인사이트 & 박스오피스 대시보드")
