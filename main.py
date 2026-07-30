@@ -9,7 +9,7 @@ st.set_page_config(
     page_title="장르별 영화 추천 TOP 10 & MBTI 추천 영화", layout="wide", page_icon="🎬"
 )
 
-st.title("🎬 🎬 시네마 인사이트 & 박스오피스 대시보드")
+st.title("🎬 시네마 인사이트 & 박스오피스 대시보드")
 
 # Secrets 키 확인
 if "KOBIS_KEY" not in st.secrets:
